@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kokkirin
+- 👋 Hi, I’m @josie
 - 🌱 Just testing now
 
 <!---
